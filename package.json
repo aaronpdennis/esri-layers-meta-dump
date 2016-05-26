@@ -18,7 +18,7 @@
     "tape": "^4.5.1"
   },
   "dependencies": {
-    "esri-rest-url": "^1.0.2",
+    "esri-rest-url": "^1.0.3",
     "request": "^2.72.0"
   }
 }
